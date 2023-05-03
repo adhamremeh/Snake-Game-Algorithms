@@ -4,7 +4,8 @@
 - pygame
 - random
 
-**Algorithms used in this code:
+**Algorithms used in this code**:
+- A*
+- Hamiltonian cycle
 - BFS
 - DFS
-- Hamiltonian cycle
